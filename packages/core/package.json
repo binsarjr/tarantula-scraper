@@ -5,6 +5,9 @@
   "author": "Binsar Dwi Jasuma <binsarjr121@gmail.com>",
   "homepage": "https://github.com/binsarjr/tarantula-scraper#readme",
   "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
   "main": "lib/index.js",
   "directories": {
     "lib": "lib",
